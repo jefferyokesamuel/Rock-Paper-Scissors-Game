@@ -8,7 +8,7 @@ print("Winning Rules of the Rock paper scissor game as follows: \n"
       + "Rock vs scissor->Rock wins \n"
       + "paper vs scissor->scissor wins \n")
 
-# The game is in a loop to allow players play for as long as they want
+# The game is in a loop to allow players continue playing
 while True:
     print("Enter choice \n r for Rock, \n p for paper, and \n s for scissors \n")
 
